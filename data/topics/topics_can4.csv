@@ -1,0 +1,46 @@
+﻿topic,keyword,sentiment_neg,sentiment_neu,sentiment_pos
+affiliation,คุกคามทางเพศ,1,0,0
+affiliation,คนในพรรค,1,,
+affiliation,ปชป,1,,
+affiliation,ปริญญ์เอฟเฟค,1,,
+affiliation,ปริญญ์,4,1,0
+affiliation,ข่มขืน,1,,
+campaign,ป้ายโซเชียล,,1,
+campaign,ทรงดี,,,
+campaign,ป้ายหาเสียง,1,,4
+campaign,โชว์วิสัยทัศน์,,,1
+competency,ตัวตน,1,,
+policy,โตเกียวโมเดล,1,,
+policy,น้ำเสีย,,,1
+policy,ขยะ,,,1
+policy,12 เทศกาลใหญ่ 50 เทศกาลเขต,,,1
+policy,เศรษฐกิจ,,,1
+policy,ปลอดภัย,,,1
+policy,สวัสดิการ,,,1
+policy,ต้นแบบอาเซียน,,,1
+policy,ทำได้จริง,,,1
+policy,4 มิติ,,,1
+policy,ถนนคนเดิน,,,1
+policy,สาธารณสุข,,,1
+policy,การแพทย์,,,1
+public-sentiment,มีลุ้น,,,1
+public-sentiment,แต่ไม่ทำ,,,
+public-sentiment,เฉื่อย,1,,
+public-sentiment,คนรุ่นใหม่,,,1
+public-sentiment,พัฒนา,,,1
+public-sentiment,ก้าวหน้า,,,1
+public-sentiment,เลือกเบอร์ 4,,,1
+public-sentiment,เลือกไม่ลง,1,,
+public-sentiment,ไล่จี้,,,1
+public-sentiment,วิจารณ์นโยบาย,1,,
+public-sentiment,เปลี่ยนนิสัย,1,,
+policy,เปลี่ยนโลก,1,,
+campaign,Iron Man,,,1
+campaign,ตอบรับดี,,,1
+affiliation,กลุ่มคนแก่,1,,
+policy,กรุงเทพ,,,1
+public-sentiment,เลือกเบอร์4,,,1
+public-sentiment,เลือกเบอร์ 4,,,1
+public-sentiment,ขี้โม้,1,,
+policy,จักรยานลอยฟ้า,,,1
+campaign,เราทำได้,,,1
