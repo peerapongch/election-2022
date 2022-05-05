@@ -34,7 +34,8 @@ REPORT_COLLETION = 'election_report'
 
 # MAPPING SCOPES
 DATE_FROM = datetime(2022,4,1)
-DATE_TO = datetime(2022,5,5)
+# DATE_TO = datetime(2022,5,5)
+DATE_TO = datetime.now()
 CANDIDATE_IDS = [1,4,6,7,8]
 TOPICS_DIR = './data/topics/'
 
