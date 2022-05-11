@@ -36,7 +36,7 @@ REPORT_COLLETION = 'election_report'
 DATE_FROM = datetime(2022,4,1)
 # DATE_TO = datetime(2022,5,5)
 DATE_TO = datetime.now()
-CANDIDATE_IDS = [1,4,6,7,8]
+CANDIDATE_IDS = [1,3,4,6,7,8,11]
 TOPICS_DIR = './data/topics/'
 
 
@@ -76,7 +76,7 @@ KEYWORDS_RULE = [
   {
       "$match": {
           'id': {
-              '$in': [575,576,577,579,580,581,696,699]
+              '$in': [575,576,577,579,580,581,696,698,699,700]
           }
       },
   },

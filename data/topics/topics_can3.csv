@@ -1,0 +1,40 @@
+topic,keyword,sentiment_neg,sentiment_neu,sentiment_pos
+policy,พื้นที่ค้าขาย,0,0,1
+campaign,ฟ้อง,1,0,0
+campaign,Talking Thailand,1,0,0
+public-sentiment,ทัวร์ลง,1,0,0
+affiliation,จับตาย,1,0,0
+affiliation,บก.ลายจุด,1,0,0
+public-sentiment,ฟ้องทันธี,1,0,0
+affiliation,ปริญญ์เอฟเฟค,0,0,1
+affiliation,สลิ่ม,1,0,0
+policy,น้ำใจ,0,0,1
+campaign,งึมงัม,1,0,0
+policy,ตีทุนใหญ่,0,0,1
+policy,นโยบายไม่ค่อยชัด,1,0,0
+public-sentiment,ทำทันธี,0,0,1
+competency,ประสบการณ์,0,0,1
+competency,รู้ปัญหา,0,0,1
+quality,เอาดีเข้าตัว,1,0,0
+affiliation,กปปส,1,0,0
+policy,หาบเร่,1,0,0
+policy,แผงลอย,1,0,0
+policy,พื้นที่สีเขียว,0,0,1
+affiliation,สุเทพ,1,0,0
+policy,ทางจักรยาน,0,0,1
+affiliation,เกินเลย,1,0,0
+public-sentiment,จุดแข็ง,0,0,1
+affiliation,หมิ่นประมาท,1,0,0
+public-sentiment,ตอแหล,1,0,0
+affiliation,ประยุทธ์,1,0,0
+campaign,ขวางหูขวางตา,1,0,0
+campaign,ป้าย,1,0,0
+policy,เร็ว,0,0,1
+campaign,แร็ป,0,0,0
+affiliation,3 นิ้ว,1,0,0
+affiliation,สามนิ้ว,1,0,0
+policy,Smart Farming,0,0,1
+policy,ปากท้อง,0,0,1
+affiliation,พิธีกร,1,0,0
+competency,เข้าใจปัญหา,0,0,1
+policy,กยศ,1,0,0
